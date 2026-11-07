@@ -28,7 +28,6 @@ Nossos jogos são desenvolvidos com foco na experiência do usuário e no respei
 Para qualquer dúvida, sugestão ou solicitação referente à privacidade de nossos jogos, entre em contato através do nosso repositório oficial ou canais de suporte:
 
 - **Organização:** [Asa Branca - Indie Game Dev](https://github.com/Asa-Branca-Indie-Game-Dev)
-- **Repositório do Jogo:** [Coffee Break](https://github.com/Asa-Branca-Indie-Game-Dev/Coffee-Break)
 
 ---
 
